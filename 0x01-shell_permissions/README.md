@@ -12,4 +12,4 @@ Shell permissions project
 10. Copying permission from hello file to olleh's file.
 11. Adding executeable permission to all subdirectories of the current directory for the u.g.o
 12. Making directories with permission 751
-
+13. Changing group ownership.
