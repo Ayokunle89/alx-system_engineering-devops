@@ -5,4 +5,5 @@ Shell permissions project
 4. Changing ownership of file Hello to betty.
 5. Creating an empty file.
 6. Adding executetable permission to the file hello
-7. GRANTING PERMISSION TO THE USER, GROUP AND OTHERS. 
+7. GRANTING PERMISSION TO THE USER, GROUP AND OTHERS.
+8. Everybody can execute. 
