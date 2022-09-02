@@ -7,4 +7,6 @@ Shell permissions project
 5. Adding executetable permission to the file hello
 6. GRANTING PERMISSION TO THE USER, GROUP AND OTHERS.
 7. Everybody can execute.
-8. All permission to others 
+8. All permission to others.
+9. All permission to user, read and execute to group, write and execute to others.
+
