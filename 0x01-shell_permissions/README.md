@@ -9,4 +9,4 @@ Shell permissions project
 7. Everybody can execute.
 8. All permission to others.
 9. All permission to user, read and execute to group, write and execute to others.
-
+10. Copying permission from hello file to olleh's file.
