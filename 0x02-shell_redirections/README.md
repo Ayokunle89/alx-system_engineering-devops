@@ -9,3 +9,4 @@ Shell, I/O Redirections and filters
 7. Echo Best school into the file \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
 8. Creating a file and redirecting the list of another file into the file
 9. Duplicting files
+10. Deleting all filess with js extension
