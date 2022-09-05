@@ -20,4 +20,5 @@ Shell, I/O Redirections and filters
 18. starting with letters
 19. using the tr command to replace characters
 20. Using the tr command to delete characters (tr -d)
-21. Reversing word 
+21. Reversing word
+22. displays all users and their home directories, sorted by users 
