@@ -13,4 +13,5 @@ Shell, I/O Redirections and filters
 11. Counting thenumber of directories and sub directories
 12. Displaying 10 newest file
 13. Unique words
-14. Using the grep command 
+14. Using the grep command
+15. Using grep and the option -c to count  
