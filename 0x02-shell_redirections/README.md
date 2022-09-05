@@ -17,4 +17,5 @@ Shell, I/O Redirections and filters
 15. Using grep and the option -c to count
 16. Grep
 17. Hidding word with the grep command 
-18. starting with letters 
+18. starting with letters
+19. using the tr command to replace characters 
