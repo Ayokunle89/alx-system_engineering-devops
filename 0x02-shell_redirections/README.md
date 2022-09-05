@@ -18,4 +18,5 @@ Shell, I/O Redirections and filters
 16. Grep
 17. Hidding word with the grep command 
 18. starting with letters
-19. using the tr command to replace characters 
+19. using the tr command to replace characters
+20. Using the tr command to delete characters (tr -d) 
