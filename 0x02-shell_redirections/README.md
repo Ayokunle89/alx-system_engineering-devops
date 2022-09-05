@@ -10,3 +10,4 @@ Shell, I/O Redirections and filters
 8. Creating a file and redirecting the list of another file into the file
 9. Duplicting files
 10. Deleting all filess with js extension
+11. Counting thenumber of directories and sub directories
