@@ -11,3 +11,4 @@ Shell, I/O Redirections and filters
 9. Duplicting files
 10. Deleting all filess with js extension
 11. Counting thenumber of directories and sub directories
+12. Displaying 10 newest file
