@@ -12,3 +12,4 @@ Shell, I/O Redirections and filters
 10. Deleting all filess with js extension
 11. Counting thenumber of directories and sub directories
 12. Displaying 10 newest file
+13. Unique words
