@@ -9,4 +9,4 @@ practice on shell variables and expansion
 7. Using the export and equality sign to create a global variable BEST with the value School
 8. a script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE
 9. Using the echo $ command to divide Variables.
- 
+10. Using the echo $ command to exponent two variables. 
