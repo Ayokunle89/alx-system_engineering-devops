@@ -6,4 +6,5 @@ practice on shell variables and expansion
 4. using the printenvcommand to list allenviroment variables.
 5. Using the set command to list all local variables and environment variables, and functions.
 6. Using the equality sign to creat a local variable BEST with the value School.
-7.  
+7. Using the export and equality sign to create a global variable BEST with the value School
+8. 
