@@ -14,4 +14,4 @@ practice on shell variables and expansion
 12. a script that prints all possible combinations of two letters, except oo
 13. Using the printf command to print a script that prints a number with two decimal places
 14. Using the printf function to converts a number from base 10 to base 16.
-15. 
+15.encodes and decodes text using the rot13 encryption. Assume ASCII. 
