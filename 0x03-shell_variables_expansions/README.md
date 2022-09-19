@@ -12,4 +12,6 @@ practice on shell variables and expansion
 10. Using the echo $ command to exponent two variables.
 11. Using the echo $ command to convert a number from base 2 to base 10.
 12. a script that prints all possible combinations of two letters, except oo
-13. Using the printf command to print a script that prints a number with two decimal places,  
+13. Using the printf command to print a script that prints a number with two decimal places
+14. Using the printf function to converts a number from base 10 to base 16.
+15. 
