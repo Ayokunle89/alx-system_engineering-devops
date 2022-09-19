@@ -10,4 +10,5 @@ practice on shell variables and expansion
 8. a script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE
 9. Using the echo $ command to divide Variables.
 10. Using the echo $ command to exponent two variables.
-11. Using the echo $ command to convert a number from base 2 to base 10. 
+11. Using the echo $ command to convert a number from base 2 to base 10.
+12. a script that prints all possible combinations of two letters, except oo 
